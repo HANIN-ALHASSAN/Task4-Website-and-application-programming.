@@ -32,7 +32,7 @@ Make sure the following are installed:
    flutter pub get
    flutter run
   ### Project Structure
-   /lib
+  - /lib
      └── main.dart         # Main UI implementation
 - /android
 - /ios
