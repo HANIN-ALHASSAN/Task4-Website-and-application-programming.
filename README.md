@@ -34,6 +34,6 @@ Make sure the following are installed:
   ### Project Structure
    /lib
      └── main.dart         # Main UI implementation
-/android
-/ios
-/pubspec.yaml           # Flutter dependencies and configuration
+- /android
+- /ios
+- /pubspec.yaml           # Flutter dependencies and configuration
