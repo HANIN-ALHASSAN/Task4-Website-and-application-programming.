@@ -33,7 +33,7 @@ Make sure the following are installed:
    flutter run
   ### Project Structure
    /lib
-  └── main.dart         # Main UI implementation
+     └── main.dart         # Main UI implementation
 /android
 /ios
 /pubspec.yaml           # Flutter dependencies and configuration
